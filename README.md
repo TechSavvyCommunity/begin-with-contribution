@@ -12,6 +12,6 @@ This repository will guide step-by-step, that how you will leads to your first c
 ### 4. Create a pull request.
 
 
-Wait for the maintener of the repository to accept your pull request. Soon, your changes will be mwrged in the master branch. You will get a notification e-mail once the changes have been merged.
+Wait for the maintener of the repository to accept your pull request. Soon, your changes will be merged in the master branch. You will get a notification e-mail once the changes have been merged.
 
 
