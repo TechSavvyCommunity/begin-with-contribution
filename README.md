@@ -4,3 +4,5 @@ This repository will guide step-by-step, that how you will leads to your first c
 ## Steps to contribute
 
 ### 1. Fork this repository
+
+### Add your name to [contributors.md](CONTRIBUTORS.md)
