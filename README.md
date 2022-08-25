@@ -5,7 +5,7 @@ This repository will guide step-by-step, that how you will leads to your first c
 
 ### 1. Fork this repository
 <div align="center">
-  <img width="40% src="https://github.com/TechSavvyCommunity/begin-with-contribution/blob/main/assets/images/fork.png"> <img width="30%" src="https://github.com/TechSavvyCommunity/begin-with-contribution/blob/main/assets/images/create_fork.png">
+  <img width="30% src="https://github.com/TechSavvyCommunity/begin-with-contribution/blob/main/assets/images/fork.png"> <img width="30%" src="https://github.com/TechSavvyCommunity/begin-with-contribution/blob/main/assets/images/create_fork.png">
 </div>
 
 ### 2. Add your name to [contributors.md](CONTRIBUTORS.md) file as per the format mentioned in the file itself and commit changes.
