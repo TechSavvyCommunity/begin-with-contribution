@@ -6,11 +6,12 @@
 
 ### A
 [APARNA BISHT](https://github.com/bishtaparna)
+[ANSH SHORI](https://github.com/anshshori2002)
 
 
 
 ### B
-[ANSH SHORI](https://github.com/anshshori2002)
+
 
 ### C
 
