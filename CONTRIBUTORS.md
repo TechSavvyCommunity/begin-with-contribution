@@ -2,10 +2,11 @@
 [YOUR NAME](YOUR GITHUB PROFILE LINK)
 
 ### NOTE:
-<b>Add your name under the alphabet, your name starts with</b> <br>
+<b>Add your name under the alphabet, your name starts with and also leave one line before you write your name.</b> <br>
 
 ### A
-[APARNA BISHT](https://github.com/bishtaparna) <br>
+[APARNA BISHT](https://github.com/bishtaparna) 
+
 [ANSH SHORI](https://github.com/anshshori2002)
 
 
