@@ -84,7 +84,7 @@
 
 ### T
 
-[Ty Durden]{https://github.com/mobsterdyke/thisis2022}
+[Ty Durden](https://github.com/mobsterdyke/thisis2022)
 
 ### U
 
